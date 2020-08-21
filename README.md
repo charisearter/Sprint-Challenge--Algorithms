@@ -51,7 +51,7 @@ Inside the `recursive_count_th` directory you'll find the `count_th.py` file. In
 Run `python test_count_th.py` to run the tests for your `count_th()` function to ensure that your implementation is correct.
 
 
-[] #### 4. Understand, plan, & implement the Robot Sort algorithm _(6 points)_
+[x] #### 4. Understand, plan, & implement the Robot Sort algorithm _(6 points)_
 
 You have been given a robot with very basic capabilities:
 

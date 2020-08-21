@@ -40,7 +40,7 @@ Write out your proposed algorithm in plain English or pseudocode AND give the ru
 
 ### Code Challenges
 
-[] #### 3. Use recursion to complete the `count_th()` function _(3 points)_
+[x] #### 3. Use recursion to complete the `count_th()` function _(3 points)_
 Inside the `recursive_count_th` directory you'll find the `count_th.py` file. In this file, please add your recursive implementation to the `count_th()` method following these rules:
 
 * Your function should take in a signle parameter (a string `word`)

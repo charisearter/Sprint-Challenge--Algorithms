@@ -10,7 +10,8 @@ def count_th(word):
     counter = word.find('th')  # see if th is there
 
     if counter != -1:
-        return 1 + count_th(word[counter+2:])  # go ahead 2 letters
+        # go ahead 2 letters and add 1 to count
+        return 1 + count_th(word[counter+2:])
     else:
         return 0  # if there isn't anything return 0
 

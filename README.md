@@ -22,17 +22,17 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 This Sprint Challenge is split into two separate parts that test your ability to analyze and write algorithms.
 
-[] ### Short Answer Questions 
+[x] ### Short Answer Questions 
 
  > It is recommended that you spend no more than 1 hour on this portion of the Sprint Challenge.
 
 For this portion of the Sprint Challenge, you'll be answering questions posed in the `Algorithms_Questions.md` document inside the `Short-Answer` directory. Write down your answer and also write down a justification for _why_ you put down that answer. This could net you some partial credit if your justification is sound but the answer you put down turns out to not be correct. Add your answers to the questions in the `Algorithms_Answers.md` file.
 
-[] #### 1. Analyzing runtime _(3 points)_
+[x] #### 1. Analyzing runtime _(3 points)_
 
 Given 3 blocks of code, identify the runtime of each. Justify your answer.
 
-[] #### 2. Find the highest floor _(3 points)_
+[x] #### 2. Find the highest floor _(3 points)_
 
 Suppose that you have an n-story building and plenty of eggs. Suppose also that an egg gets broken if it is thrown off floor f or higher, and doesn't get broken if dropped off a floor less than floor f. Devise a strategy to determine the value of f such that the number of dropped + broken eggs is minimized.
 
